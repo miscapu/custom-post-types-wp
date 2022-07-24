@@ -42,6 +42,7 @@ function miscapu_post_type()
                 'show_in_admin_bar'     =>  true,
                 'has_archive'           =>  true,
                 'can_export'            =>  true,
+                'menu_icon'             =>  'dashicons-admin-media',
                 'exclude_from_search'   =>  false,
                 'yarpp_support'         =>  true,
                 'taxonomies'            =>
